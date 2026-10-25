@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Waveshare ESP32-S3-Zero,1,Local,$14.10,$14.10,https://www.local.com
 PCB,1,JLPCB,$9.50,$9.50,https://cart.jlcpcb.com/quote/gerberviewThree/?qs=fd7fc4108f3a4beea41fba4c95d3f7fc_1_0_1_0_0.html
+EC11,2,Aliexpress,$0.69,$1.38,https://www.aliexpress.com/item/1005008773438800.html?spm=a2g0o.cart.0.0.79a738dact9PQn&mp=1&pdp_npi=6%40dis%21JOD%21JOD%200.530%21JOD%200.487%21%21JOD%200.487%21%21%21%400be7129d17929488793904387e0db1%2112000048927220928%21ct%21JO%214050088899%21%213%210%21
 Estimated total shipping,1,,,$0.00,
