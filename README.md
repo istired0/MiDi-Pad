@@ -5,7 +5,7 @@ MIDI Pad for the 3rd week of Half-Life by Hack-Club
 - Minimal
 - 7-key layout
 - RGB LEDs
-
+                                                                                                                                                                                   .
 # Things to improve
 - Design as a whole
 - Maybe add a case
