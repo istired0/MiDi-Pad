@@ -8,11 +8,14 @@ MIDI Pad for the 3rd week of Half-Life by Hack-Club
                                                                                                                                                                                    
 
 # Showcase
-<img width="1189" height="802" alt="Screenshot 2026-10-25 152835" src="https://github.com/user-attachments/assets/e9c33463-d07f-4b8c-a31b-c8ac23c2a228" />
 
-<img width="1253" height="713" alt="Screenshot 2026-11-25 151614" src="https://github.com/user-attachments/assets/54bc870b-5d76-43bc-bb02-1a45baac378f" />
 
-<img width="1310" height="666" alt="Screenshot 2026-11-25 151647" src="https://github.com/user-attachments/assets/c8ef48b3-0a99-4fd5-a70d-7a2424f2a824" />
+<img width="1253" height="713" alt="Final" src="https://github.com/user-attachments/assets/54bc870b-5d76-43bc-bb02-1a45baac378f" />
+
+<img width="1255" height="767" alt="Schematic" src="https://github.com/user-attachments/assets/98fc689d-a82d-4b4a-baa0-c07c4d0987dc" />
+
+<img width="1310" height="666" alt="PCB" src="https://github.com/user-attachments/assets/c8ef48b3-0a99-4fd5-a70d-7a2424f2a824" />
+
 
 
 # BOM
@@ -24,5 +27,5 @@ MIDI Pad for the 3rd week of Half-Life by Hack-Club
 | EC11 | 2 | AliExpress | $0.69 | $1.38 | [Link](https://www.aliexpress.com/item/1005008773438800.html) |
 | Slider | 1 | AliExpress | $2.51 | $2.51 | [Link](https://www.aliexpress.com/item/32556396160.html) |
 | LEDs | 1 | AliExpress | $0.77 | $0.77 | [Link](https://www.aliexpress.com/item/1005010491444748.html) |
-| Estimated shipping | 1 | — | — | $0.54 | — |
+| Estimated shipping | - | — | — | $0.54 | — |
 | **Total** |  |  |  | **$28.80** |  |
